@@ -1,0 +1,3 @@
+CRNN_model.hdf5
+word_seg_model.h5
+text_seg_model.h5
